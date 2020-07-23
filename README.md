@@ -18,7 +18,7 @@ Cie1931 is a small C++ library (if you can call it that!) that uses constexpr to
 
 This code should run on basically any platform with a C++11 complier for it. You shouldn't even need floating point support on your target platform, because the math is all done at compile time.
 
-Using it is easy. Declare the curve with the settings you want, and use it liek a lookup table. Here's an Arduino example:
+Using it is easy. Declare the curve with the settings you want, and use it like a lookup table. Here's an Arduino example:
 
 ```cpp
 
