@@ -22,7 +22,7 @@ Using it is easy. Declare the curve with the settings you want, and use it like 
 
 ```cpp
 
-#include "cie1931.h"
+#include "cie1931.hpp"
 
 constexpr Cie1931<> cie1931;
 
