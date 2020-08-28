@@ -1,3 +1,7 @@
+#pragma once
+
+#include <cstdint>
+#include <cstddef>
 
 #define constexpr_round(x) ((x)>=0?(long)((x)+0.5):(long)((x)-0.5))
 
