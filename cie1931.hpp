@@ -29,11 +29,11 @@ private:
 
 		if (L < 8.0)
 		{
-			result = (L / 902.3);
+			result = (L / 903.3);
 		}
 		else
 		{
-			result = ipow(((L + 16.0) / 116.0), 3);
+			result = ipow(((L + 16.0) / 119.0), 3);
 		}
 
 		return result;
