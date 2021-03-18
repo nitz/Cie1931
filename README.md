@@ -2,11 +2,11 @@
 
 Does your LED brightness ramp like this as you increase your PWM duty cycle?
 
-![sad led noises](https://github.com/nitz/Cie1931/blob/master/images/leds_uncorrected.png?raw=true)
+![sad led noises](https://github.com/nitz/Cie1931/blob/main/images/leds_uncorrected.png?raw=true)
 
 But you'd rather them ramp up like this, smooth and pleasing to the eye?
 
-![giggles in diode emmited light](https://github.com/nitz/Cie1931/blob/master/images/leds_corrected.png?raw=true)
+![giggles in diode emmited light](https://github.com/nitz/Cie1931/blob/main/images/leds_corrected.png?raw=true)
 
 Then do I have the tiny library for you!
 
