@@ -1,0 +1,32 @@
+{
+    "name": "CIE1931",
+    "description": "Cie1931 is a small C++ library (if you can call it that!) that uses constexpr to generate a lookup table for translating a PWM duty cycle scale into a mostly linear brightness output.",
+    "keywords": "led,math,gamma,cie1931",
+    "authors": [
+        {
+            "name": "Chris Marc Dailey",
+            "url": "https://cmd.wtf",
+            "maintainer": true
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nitz/Cie1931.git"
+    },
+    "version": "1.0.0",
+    "license": "MIT",
+    "homepage": "https://cmd.wtf",
+    "frameworks": "arduino",
+    "platforms": "atmelavr, atmelsam, freescalekinetis, nordicnrf51, nxplpc, ststm32, teensy, espressif8266, espressif32, nordicnrf52",
+    "export": {
+        "exclude": [
+            "images"
+        ]
+    },
+    "build": {
+        "srcFilter": [
+            "+<*.hpp>"
+        ],
+        "libArchive": false
+    }
+}
