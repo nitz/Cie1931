@@ -1,3 +1,5 @@
+[![arduino-library-badge](https://www.ardu-badge.com/badge/CIE1931.svg?)](https://www.ardu-badge.com/CIE1931)
+
 # CIE1931 LED Linear Brightness Ramp
 
 Does your LED brightness ramp like this as you increase your PWM duty cycle?

@@ -13,7 +13,7 @@
         "type": "git",
         "url": "https://github.com/nitz/Cie1931.git"
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "MIT",
     "homepage": "https://cmd.wtf",
     "frameworks": "arduino",
