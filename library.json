@@ -14,7 +14,7 @@
         "url": "https://github.com/nitz/Cie1931.git"
     },
     "version": "1.0.1",
-    "license": "MIT",
+    "license": "0BSD",
     "homepage": "https://cmd.wtf",
     "frameworks": "arduino",
     "platforms": "atmelavr, atmelsam, freescalekinetis, nordicnrf51, nxplpc, ststm32, teensy, espressif8266, espressif32, nordicnrf52",
