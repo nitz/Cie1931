@@ -33,7 +33,7 @@ private:
 		}
 		else
 		{
-			result = ipow(((L + 16.0) / 119.0), 3);
+			result = ipow(((L + 16.0) / 116.0), 3);
 		}
 
 		return result;
